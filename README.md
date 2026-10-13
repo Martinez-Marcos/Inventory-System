@@ -1,4 +1,4 @@
-# Product Manager (Gestor de Productos)
+# Inventory System
 
 Pequeña aplicación desarrollada en Java para la gestión básica de productos en memoria.
 
